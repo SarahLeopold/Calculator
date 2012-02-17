@@ -1,0 +1,9 @@
+C:\Users\Sarah\documents\visual studio 2010\Projects\Project1-Calculator\Project1-Calculator\bin\Debug\Project1-Calculator.exe
+C:\Users\Sarah\documents\visual studio 2010\Projects\Project1-Calculator\Project1-Calculator\bin\Debug\Project1-Calculator.pdb
+C:\Users\Sarah\documents\visual studio 2010\Projects\Project1-Calculator\Project1-Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sarah\documents\visual studio 2010\Projects\Project1-Calculator\Project1-Calculator\obj\x86\Debug\Project1_Calculator.Form1.resources
+C:\Users\Sarah\documents\visual studio 2010\Projects\Project1-Calculator\Project1-Calculator\obj\x86\Debug\Project1_Calculator.Properties.Resources.resources
+C:\Users\Sarah\documents\visual studio 2010\Projects\Project1-Calculator\Project1-Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sarah\documents\visual studio 2010\Projects\Project1-Calculator\Project1-Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sarah\documents\visual studio 2010\Projects\Project1-Calculator\Project1-Calculator\obj\x86\Debug\Project1-Calculator.exe
+C:\Users\Sarah\documents\visual studio 2010\Projects\Project1-Calculator\Project1-Calculator\obj\x86\Debug\Project1-Calculator.pdb
